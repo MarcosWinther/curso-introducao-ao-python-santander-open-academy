@@ -36,7 +36,7 @@
 	2. **Ciência de dados:**
 		- Python é a linguagem preferida para análise de dados e ciência de dados devido a bibliotecas como **NumPy**, **Pandas** e **Matplotlib**. 
 	3. **Inteligência artificial e machine learning:**
-		- Python é a escolha principal para projetos de ***IA ***e ***machine learning***, graças a bibliotecas como **TensorFlow** e **Scikit-learn**. 
+		- Python é a escolha principal para projetos de ***IA*** e ***machine learning***, graças a bibliotecas como **TensorFlow** e **Scikit-learn**. 
 	3. **Automatização de tarefas:**
 		- Python pode ser utilizado para automatizar tarefas repetitivas, como processamento de arquivos, web scraping e testes de software.
 	4. **Desenvolvimento de jogos:**
